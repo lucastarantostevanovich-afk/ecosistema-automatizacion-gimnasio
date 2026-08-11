@@ -78,14 +78,14 @@ El archivo técnico exportado desde n8n se encuentra en:
 
 El repositorio incluye evidencias de:
 
-- Respuesta automática
-- HITL aprobado
-- HITL rechazado
-- Error de validación
-- Error del modelo GPT
-- Dashboard de control
-- Tablas de Airtable
-- Workflow completo
+- Respuesta automática - Videos
+- HITL aprobado - Videos
+- HITL rechazado - Videos
+- Error de validación - Videos
+- Error del modelo GPT - Videos
+- Dashboard de control - Capturas
+- Tablas de Airtable - Capturas
+- Workflow completo - (workflow_atencion_gim.json)
 
 ## Seguridad y resiliencia
 
