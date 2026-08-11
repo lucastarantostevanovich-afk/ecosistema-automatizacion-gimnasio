@@ -30,22 +30,34 @@ Gmail Trigger
 → Evaluación HITL  
 → Respuesta automática o aprobación humana  
 → Actualización de estado  
-→ Registro en Log Ejecuciones
+→ Registro en Log Ejecuciones  
+→ Actualización automática de métricas
 
 ## Base de datos
 
 ### Consultas
-https://airtable.com/appCbkilOBqeZTMza/shr5yCCNzBzvKFafw
+
+https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblQ9obBzD4jdPxXM
 
 ### Conocimiento
-https://airtable.com/appCbkilOBqeZTMza/shrjK0xcrVzw87Sxt
+
+https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblhli6TwYpYL4D0W/viwtmyrJ2OfynW4Ec
 
 ### Log Ejecuciones
-https://airtable.com/appCbkilOBqeZTMza/shriM6KEe02pYq5LJ
+
+https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tbligrUS8pEG09LpF/viwABZGXFGDK2TmM1
+
+### Métricas
+
+https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblG8AMUUAZcMGZrr/viwEHpljwaiAaf6D1
+
+La tabla Métricas consolida automáticamente los resultados registrados en Log Ejecuciones y permite visualizar indicadores como cantidad total de ejecuciones, ejecuciones exitosas, errores, revisiones manuales, casos HITL y tasas de desempeño.
 
 ## Dashboard de Control
 
-https://airtable.com/appCbkilOBqeZTMza/pagHJIubdgxONb9Fg
+El dashboard de control se basa en la tabla Métricas de Airtable, donde se concentran los principales KPIs del sistema y la tasa de errores.
+
+https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblG8AMUUAZcMGZrr/viwEHpljwaiAaf6D1
 
 El dashboard permite monitorear KPIs del sistema, resultados de las ejecuciones, intervenciones humanas y tasa de errores.
 
