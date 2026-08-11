@@ -37,19 +37,19 @@ Gmail Trigger
 
 ### Consultas
 
-https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblQ9obBzD4jdPxXM
+[https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblQ9obBzD4jdPxXM](https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblQ9obBzD4jdPxXM)
 
 ### Conocimiento
 
-https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblhli6TwYpYL4D0W/viwtmyrJ2OfynW4Ec
+[https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblhli6TwYpYL4D0W/viwtmyrJ2OfynW4Ec](https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblhli6TwYpYL4D0W/viwtmyrJ2OfynW4Ec)
 
 ### Log Ejecuciones
 
-https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tbligrUS8pEG09LpF/viwABZGXFGDK2TmM1
+[https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tbligrUS8pEG09LpF/viwABZGXFGDK2TmM1](https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tbligrUS8pEG09LpF/viwABZGXFGDK2TmM1)
 
 ### Métricas
 
-https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblG8AMUUAZcMGZrr/viwEHpljwaiAaf6D1
+[https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblG8AMUUAZcMGZrr/viwEHpljwaiAaf6D1](https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblG8AMUUAZcMGZrr/viwEHpljwaiAaf6D1)
 
 La tabla Métricas consolida automáticamente los resultados registrados en Log Ejecuciones y permite visualizar indicadores como cantidad total de ejecuciones, ejecuciones exitosas, errores, revisiones manuales, casos HITL y tasas de desempeño.
 
@@ -57,16 +57,20 @@ La tabla Métricas consolida automáticamente los resultados registrados en Log 
 
 El dashboard de control se basa en la tabla Métricas de Airtable, donde se concentran los principales KPIs del sistema y la tasa de errores.
 
-https://airtable.com/appCbkilOBqeZTMza/shrzdiTotdICBItYH/tblG8AMUUAZcMGZrr/viwEHpljwaiAaf6D1
-
 El dashboard permite monitorear KPIs del sistema, resultados de las ejecuciones, intervenciones humanas y tasa de errores.
+
+Las evidencias del dashboard se encuentran en la carpeta:
+
+`evidencias/`
 
 ## Documentación
 
-- Diagrama de arquitectura
-- Estructuras de datos y esquemas JSON
-- Optimización de costos
-- Seguridad y resiliencia
+La carpeta `documentacion/` incluye:
+
+- `Diagrama de arquitectura.png`
+- `Estructuras de datos.pdf`
+- `Optimización de costos.pdf`
+- `Seguridad y resiliencia.pdf`
 
 ## Workflow
 
@@ -76,16 +80,18 @@ El archivo técnico exportado desde n8n se encuentra en:
 
 ## Evidencias
 
-El repositorio incluye evidencias de:
+La carpeta `evidencias/` incluye evidencias de:
 
-- Respuesta automática - Videos
-- HITL aprobado - Videos
-- HITL rechazado - Videos
-- Error de validación - Videos
-- Error del modelo GPT - Videos
+- Respuesta automática - Video
+- HITL aprobado - Video
+- HITL rechazado - Video
+- Error de validación - Video
+- Error del nodo GPT - Video
 - Dashboard de control - Capturas
-- Tablas de Airtable - Capturas
-- Workflow completo - (workflow_atencion_gim.json)
+- Tabla Consultas de Airtable - Captura
+- Tabla Conocimiento de Airtable - Captura
+- Tabla Log Ejecuciones de Airtable - Captura
+- Tabla Métricas de Airtable - Captura
 
 ## Seguridad y resiliencia
 
